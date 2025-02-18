@@ -1,2 +1,3 @@
-
+INVENTARIO XYC 
+Fifo / Lifo 
 
